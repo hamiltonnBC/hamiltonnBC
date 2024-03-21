@@ -1,6 +1,6 @@
 ### Hi there 👋 
 ## https://hamiltonnbc.github.io/
-## Projects I'm Working On - [Project Name](https://github.com/2024-databases-bereacollege/client-project-up-unhoused-persons-initiative-team.git) - Project Lead. Creating a database system for a local non-profit in Berea KY.
+## Projects I'm Working On - [Database System for UP initiative Non-Profit](https://github.com/2024-databases-bereacollege/client-project-up-unhoused-persons-initiative-team.git) - Project Lead. Creating a database system for a local non-profit in Berea KY.
 
 <!--
 **hamiltonnBC/hamiltonnBC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

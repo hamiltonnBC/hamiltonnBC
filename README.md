@@ -1,5 +1,4 @@
 ### Hi there 👋 
-## https://hamiltonnbc.github.io/
 ## Projects - [Database System for UP initiative Non-Profit](https://github.com/2024-databases-bereacollege/client-project-up-unhoused-persons-initiative-team.git) - Project Lead. Creating a database system for a local non-profit in Berea KY.
 
 <!--

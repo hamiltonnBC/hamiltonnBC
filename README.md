@@ -1,5 +1,5 @@
 ### Hi there 👋 
-## [Personal website](nicholastreyhamilton.me)
+## [Personal website](https://www.nicholastreyhamilton.me)
 ## Outside Projects - [Database System for UP initiative Non-Profit](https://github.com/2024-databases-bereacollege/client-project-up-unhoused-persons-initiative-team.git) - Project Lead. Created a database system for a local non-profit in Berea KY.
 
 <!--

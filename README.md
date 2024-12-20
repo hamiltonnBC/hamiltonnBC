@@ -26,7 +26,7 @@ I'm Nicholas, a Computer Science major and Lead Teaching Assistant for the Compu
   - Implemented data visualization and pattern recognition techniques
   - [View Live Project](https://networktrafficanalysis-bc-1.onrender.com/)
 
-https://networktrafficanalysis-bc-1.onrender.com/
+
 ## 🔨 Current Projects
 
 ### Berea College CS Website

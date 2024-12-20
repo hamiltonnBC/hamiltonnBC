@@ -17,12 +17,16 @@ I'm Nicholas, a Computer Science major and Lead Teaching Assistant for the Compu
   - Project Lead
   - Designed and implemented a comprehensive database system
   - Supported local non-profit organization in Berea, KY
+  - [View Video Demonstration](https://youtu.be/Run8F22sIcs?si=lX4aJYt_6LGBE-mT)
+ 
 
 ### Network Analysis
 - **[Network Traffic Analysis](https://github.com/hamiltonnBC/NetworkTrafficAnalysis_BC)**
   - Conducted detailed analysis of school network traffic using Wireshark
   - Implemented data visualization and pattern recognition techniques
+  - [View Live Project](https://networktrafficanalysis-bc-1.onrender.com/)
 
+https://networktrafficanalysis-bc-1.onrender.com/
 ## 🔨 Current Projects
 
 ### Berea College CS Website

@@ -31,7 +31,7 @@ I'm Nicholas, a Computer Science major and Lead Teaching Assistant for the Compu
 
 ### Berea College CS Website
 - **[CS Department Website](https://github.com/BC-CS-Website-Team/CS_TA_Website)**
-  - Leading a team of 20+ developers
+  - Leading a team of 15+ developers
   - Creating a comprehensive platform for the CS department
   - Features include:
     - Evening lab hours scheduling system

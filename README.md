@@ -2,7 +2,7 @@
 
 I'm Nicholas, a Computer Science major and Lead Teaching Assistant for the Computer Science Department at Berea College. With experience in full-stack development and data science, I've worked on various projects focusing on social impact and technical innovation. My background includes valuable experience as an intern with Virginia Tech's Data Science for the Public Good program, where I developed skills in machine learning and data analysis.
 
-## 🌐 [Personal Website](https://nicholastreyhamilton.me)
+## 🌐 [Personal Website](https://nicholastreyhamilton.com)
 
 ## 🚀 Featured Projects
 

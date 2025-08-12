@@ -40,7 +40,7 @@ I'm Nicholas, a Computer Science major and Lead Teaching Assistant for the Compu
     - Interactive features for student and faculty engagement
 
 ### CensusConnect
-- **[Census Data Retrieval Tool](https://github.com/hamiltonnBC/CensusConnect.git)**
+- **[Census Data Retrieval Tool](https://github.com/hamiltonnBC/CensusGUI.git)**
   - Developing a research tool to streamline US Census data retrieval
   - Addressing common data access challenges
   - Implementing solutions for data consistency and accessibility

@@ -4,7 +4,7 @@ I'm Nicholas, a Computer Science major and Lead Teaching Assistant for the Compu
 
 ## 🌐 [Personal Website](https://nicholastreyhamilton.com)
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### Data Science & Machine Learning
 - **[Projecting Future Food Insecurity](https://github.com/hamiltonnBC/VTDSPG24ProjectingFoodInsecurity.git)**
@@ -27,7 +27,7 @@ I'm Nicholas, a Computer Science major and Lead Teaching Assistant for the Compu
   - [View Live Project](https://networktrafficanalysis-bc-1.onrender.com/)
 
 
-## 🔨 Current Projects
+## Current Projects
 
 ### Berea College CS Website
 - **[CS Department Website](https://github.com/BC-CS-Website-Team/CS_TA_Website)**
@@ -45,7 +45,7 @@ I'm Nicholas, a Computer Science major and Lead Teaching Assistant for the Compu
   - Addressing common data access challenges
   - Implementing solutions for data consistency and accessibility
 
-## 💡 Skills
+## Skills
 - Full Stack Development
 - Data Science & Machine Learning
 - Database Design & Management
